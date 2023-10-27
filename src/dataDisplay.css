@@ -1,0 +1,7 @@
+table, td, tr {
+    border: 1px solid black;
+  }
+
+  .first-column td {
+    border: 1px solid red;
+  }
